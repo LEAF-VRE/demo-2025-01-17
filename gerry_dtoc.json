@@ -1,8 +1,8 @@
 {
     "inputs": [
-        "link to raw XML file in github"
+        "https://raw.githubusercontent.com/LEAF-VRE/demo-2025-01-17/refs/heads/main/Gerry%20Demo/Gerry-tei-tagged.xml"
     ],
-    "documents": "//div[@type='divType'or@type='otherDivTypeIfApplicable']",
+    "documents": "//div[@type='biography']",
     "ignoreNamespace": true,
     "documentTitle": "head",
     "documentAuthor": "",
