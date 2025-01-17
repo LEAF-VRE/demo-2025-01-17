@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/LEAF-VRE/code_snippets/refs/heads/main/CSS/leaf.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/LEAF-VRE/code_snippets/refs/heads/main/CSS/leaf.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -18,18 +15,8 @@
             <p>Converted from DOCX</p>
          </sourceDesc>
       </fileDesc>
-      <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-            xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
-            xmlns:as="http://www.w3.org/ns/activitystreams#"
-            xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#"
-            xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
-            xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#"
-            xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/"
-            xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#"
-            xmlns:bf="http://www.openlinksw.com/schemas/bif#"
-            xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#"
-            xmlns:org="http://www.w3.org/ns/org#"/></xenoData>
-      <encodingDesc>
+      
+      <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData><encodingDesc>
          <projectDesc>
             <p>Converted from DOCX to TEI using XSLT</p>
          </projectDesc>
@@ -41,7 +28,7 @@
             <div>
                <head>Elbridge Gerry.</head>
                <p>The son of Thomas Gerry, a native of Newton, England, butemigrated to this country
-                  in 1730, was born at Marblehead,Massachusetts, the 17th of July 1744. He entered
+                  in 1730, was born at Marblehead, Massachusetts, the 17th of July 1744. He entered
                   Harvard collegebefore he was fourteen years of age, &amp; graduated there in
                   1762.He was at first destined to the profession of medicine, to whichhe was
                   strongly attached; but soon after he left college he engagedin the same business
