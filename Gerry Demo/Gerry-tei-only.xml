@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/LEAF-VRE/code_snippets/refs/heads/main/CSS/leaf.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/LEAF-VRE/code_snippets/refs/heads/main/CSS/leaf.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -18,18 +15,8 @@
             <p>Converted from DOCX</p>
          </sourceDesc>
       </fileDesc>
-      <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-            xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
-            xmlns:as="http://www.w3.org/ns/activitystreams#"
-            xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#"
-            xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
-            xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#"
-            xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/"
-            xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#"
-            xmlns:bf="http://www.openlinksw.com/schemas/bif#"
-            xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#"
-            xmlns:org="http://www.w3.org/ns/org#"/></xenoData>
-      <encodingDesc>
+      
+      <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData><encodingDesc>
          <projectDesc>
             <p>Converted from DOCX to TEI using XSLT</p>
          </projectDesc>
@@ -40,53 +27,52 @@
          <div>
             <div>
                <head>Elbridge Gerry.</head>
-               <p>The son of Thomas Gerry, a native of Newton, England, butemigrated to this country
-                  in 1730, was born at Marblehead,Massachusetts, the 17th of July 1744. He entered
-                  Harvard collegebefore he was fourteen years of age, &amp; graduated there in
-                  1762.He was at first destined to the profession of medicine, to whichhe was
-                  strongly attached; but soon after he left college he engagedin the same business
-                  his father followed &amp; at his request, that of amerchant; &amp; for sometime
+               <p>The son of Thomas Gerry, a native of Newton, England, but emigrated to this country
+                  in 1730, was born at Marblehead, Massachusetts, the 17th of July 1744. He entered
+                  Harvard college before he was fourteen years of age, &amp; graduated there in
+                  1762.He was at first destined to the profession of medicine, to which he was
+                  strongly attached; but soon after he left college he engaged in the same business
+                  his father followed &amp; at his request, that of a merchant; &amp; for some time
                   attended the routine of mercantile pur==suits in his native town. The knowlege he
-                  acquired of commerce &amp; themodes of transacting that branch of business was
-                  useful to him in futurelife.</p>
-               <p>The strong political excitements of the times attracted hisattention from the
-                  compting house, tho for the time he was successful,&amp; terminated his connection
-                  with commerce, to which he had littlepartiality. In the intervals of public
-                  employment he did indeedresume the avocation, but as might be expected, when not
-                  steadilypursued with no great satisfaction or advantage; &amp; after a fewyears he
-                  finally abandoned it for other objects more congenial tohis mind.</p>
+                  acquired of commerce &amp; the modes of transacting that branch of business was
+                  useful to him in future life.</p>
+               <p>The strong political excitements of the times attracted his attention from the
+                  compting house, tho for the time he was successful, &amp; terminated his connection
+                  with commerce, to which he had little partiality. In the intervals of public
+                  employment he did indeedr esume the avocation, but as might be expected, when not
+                  steadily pursued with no great satisfaction or advantage; &amp; after a few years he
+                  finally abandoned it for other objects more congenial to his mind.</p>
                <p>He made his first appearance in public life as a represen==tative of his native
-                  town in May 1772-a period when theroyal government &amp; people were in a high
-                  state of acrimony &amp;almost open collision. The next year he was re-elected,
-                  &amp; tho one ofthe youngest members, was appointed a member of the
-                  standingcommittee of correspondence &amp; enquiry with the other colonies; &amp;of
-                  the committee to prepare an address to the provinces. He wasdistinguished for his
-                  zeal &amp; firmness in support of the rights of hiscountry. His spirit was
-                  nourished by close communion with theAdamses, the Hancocks, &amp; the Warrens of
-                  those days. He entered early,from principle, in opposition to British
-                  encroachments, &amp; continuedone of the most uniform republicans to the end of
-                  the contest. Duringthe revolution, beside his own personal exertions, which were
+                  town in May 1772-a period when the royal government &amp; people were in a high
+                  state of acrimony &amp; almost open collision. The next year he was re-elected,
+                  &amp; tho one of the youngest members, was appointed a member of the
+                  standing committee of correspondence &amp; enquiry with the other colonies; &amp; of
+                  the committee to prepare an address to the provinces. He was distinguished for his
+                  zeal &amp; firmness in support of the rights of his country. His spirit was
+                  nourished by close communion with the Adamses, the Hancocks, &amp; the Warrens of
+                  those days. He entered early, from principle, in opposition to British
+                  encroachments, &amp; continued one of the most uniform republicans to the end of
+                  the contest. During the revolution, beside his own personal exertions, which were
                   unre==mitted &amp; indefatigable, he did not hesitate, in many cases, to
-                  advancehis own funds, when immediate payment was required, &amp; toincur
-                  responsibities on his own credit, which the government wasthen unable to redeem,
-                  &amp; which in fact, occassioned him in the endheavy pecuniary losses.</p>
-               <p>In 1774, in consequence of difficulties which arose in Marblehead onaccount of the
-                  small pox, he declined a re-election to the legislature.But in October he was
-                  elected member of an assembly which met atSalem, &amp; adjourned to Concord, where
+                  advance his own funds, when immediate payment was required, &amp; to incur
+                  responsibities on his own credit, which the government was then unable to redeem,
+                  &amp; which in fact, occassioned him in the end heavy pecuniary losses.</p>
+               <p>In 1774, in consequence of difficulties which arose in Marblehead on account of the
+                  small pox, he declined a re-election to the legislature. But in October he was
+                  elected member of an assembly which met at Salem, &amp; adjourned to Concord, where
                   they assumed the form of a legisla==tive assembly under the name of the provincial
                   congress.</p>
-               <p>In 1775 he was a member of the provincial congress of Massachusettswhich virtually
-                  destroyed the royal authority in that province. He waschairman of the committee of
+               <p>In 1775 he was a member of the provincial congress of Massachusetts which virtually
+                  destroyed the royal authority in that province. He was chairman of the committee of
                   supplies to provide ammunition &amp; pro==visions, &amp; to deposit them in some
-                  place of safety for future use. Thistrust he executed with great punctuality &amp;
-                  unwearied industry. On the18th of April the British troops on their march to
-                  Lexington, in the middleof the night, passed the house in which the committee held
-                  their ses==sion. After the foremost of the troops passed, Gerry from his bed sawa
-                  portion of them preparing to surround the house, he sprang fromhis bed, &amp; half
-                  dressed escaped undiscovered &amp; concealed himself in acornfield, till the
-                  troops entered &amp; searched the house &amp; bed chambers, andjoined the main
-                  body &amp; marched off; Gerry then returned, &amp; tho his</p>
-               <p>bed had been rumpled, he found his clothing &amp; watch safe.Being ardent &amp;
+                  place of safety for future use. This trust he executed with great punctuality &amp;
+                  unwearied industry. On the 18th of April the British troops on their march to
+                  Lexington, in the middle of  the night, passed the house in which the committee held
+                  their ses==sion. After the foremost of the troops passed, Gerry from his bed saw a
+                  portion of them preparing to surround the house, he sprang from his bed, &amp; half
+                  dressed escaped undiscovered &amp; concealed himself in a cornfield, till the
+                  troops entered &amp; searched the house &amp; bed chambers, and joined the main
+                  body &amp; marched off; Gerry then returned, &amp; tho his bed had been rumpled, he found his clothing &amp; watch safe.Being ardent &amp;
                   persevering in his measures to oppose the publicenemy, early in November he
                   proposed that the provincial congressshould raise a committee upon the subject of
                   fitting out armedvessels &amp; establishing a court for the trial &amp;
