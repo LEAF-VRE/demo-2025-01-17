@@ -125,7 +125,7 @@
 	"id": "https://raw.githubusercontent.com/LEAF-VRE/demo-2025-01-17/main/Gerry%20Demo/Gerry-tei-entities.xml?person_annotation_20250117103616318",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-17T15:36:16.318Z",
-	"dcterms:modified": "2025-01-17T15:36:16.318Z",
+	"dcterms:modified": "2025-01-17T15:36:29.882Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -174,7 +174,7 @@
       <body>
          <div type="biography">
             <head><persName key="Elbridge Gerry" ref="http://www.wikidata.org/entity/Q219797">Elbridge Gerry</persName>.</head>
-            <p>The son of <persName ref="http://www.wikidata.org/entity/Q96217015" key="Thomas Gerry">Thomas Gerry</persName>, a native of <placeName>Newton,
+            <p>The son of <persName key="Thomas Gerry" ref="http://www.wikidata.org/entity/Q96217015">Thomas Gerry</persName>, a native of <placeName>Newton,
                   England</placeName>, but emigrated to this country in <date>1730</date>, was born
                at <placeName key="Marblehead" ref="http://www.wikidata.org/entity/Q27416">Marblehead, Massachusetts</placeName>, the <date>17th of July
                   1744</date>. He entered <orgName>Harvard college</orgName> before he was fourteen
