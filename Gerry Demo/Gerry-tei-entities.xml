@@ -551,7 +551,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q310829",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -882,7 +884,7 @@
                president &amp; vice president of the <placeName>United States</placeName>.</p>
 
             <p>On the <date>22d of June 1797</date> he was appointed envoy extraordinary jointly
-               with <persName key="William Pinkney" ref="http://www.wikidata.org/entity/Q1376159">Pinkney</persName> &amp; <persName>Marshall</persName> to
+               with <persName key="William Pinkney" ref="http://www.wikidata.org/entity/Q1376159">Pinkney</persName> &amp; <persName ref="http://www.wikidata.org/entity/Q310829" key="John Marshall">Marshall</persName> to
                   <placeName>France</placeName>. Nothing could have been more unexpected to him than
                this appointment, which he reluctantly accepted; &amp; on the <date>9th of
                   August</date> following embarked for that country. On the <date>4th October</date>
