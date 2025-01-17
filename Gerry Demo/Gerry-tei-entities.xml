@@ -836,7 +836,7 @@
 	"id": "https://raw.githubusercontent.com/LEAF-VRE/demo-2025-01-17/main/Gerry%20Demo/Gerry-tei-entities.xml?person_annotation_20250117104752907",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-17T15:47:52.907Z",
-	"dcterms:modified": "2025-01-17T15:47:52.907Z",
+	"dcterms:modified": "2025-01-17T15:48:10.943Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -867,7 +867,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q1325397",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -1219,7 +1221,7 @@
                promptly resolved they would not purchase the right of negotiation. It was intimated
                to Mr <persName key="Elbridge Gerry" ref="http://www.wikidata.org/entity/Q1325397">Gerry</persName> thot <persName key="Charles-Maurice de Talleyrand-Périgord" ref="http://www.wikidata.org/entity/Q160499">Talleyrand</persName> expected to
                have seen the American envoy &amp; to have conferred with them individually on the
-               affairs of the mission. <persName>Gerry</persName> communicated the fact to
+               affairs of the mission. <persName key="Elbridge Gerry" ref="http://www.wikidata.org/entity/Q1325397">Gerry</persName> communicated the fact to
                   <persName>Pinkney</persName> &amp; <persName>Marshall</persName>; they advised him
                to call, but declined going themselves. He reluctantly consented, &amp; had several
                interviews with <persName>Tallyrand</persName>, at which they occasionally discussed
