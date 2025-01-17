@@ -441,7 +441,7 @@
 	"id": "https://raw.githubusercontent.com/LEAF-VRE/demo-2025-01-17/main/Gerry%20Demo/Gerry-tei-entities.xml?person_annotation_20250117104259103",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-17T15:42:59.103Z",
-	"dcterms:modified": "2025-01-17T15:43:18.358Z",
+	"dcterms:modified": "2025-01-17T15:46:04.574Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -520,7 +520,7 @@
 	"id": "https://raw.githubusercontent.com/LEAF-VRE/demo-2025-01-17/main/Gerry%20Demo/Gerry-tei-entities.xml?person_annotation_20250117104326690",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-17T15:43:26.690Z",
-	"dcterms:modified": "2025-01-17T15:44:25.955Z",
+	"dcterms:modified": "2025-01-17T15:46:17.541Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -599,7 +599,7 @@
 	"id": "https://raw.githubusercontent.com/LEAF-VRE/demo-2025-01-17/main/Gerry%20Demo/Gerry-tei-entities.xml?person_annotation_20250117104433240",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-17T15:44:33.240Z",
-	"dcterms:modified": "2025-01-17T15:44:42.892Z",
+	"dcterms:modified": "2025-01-17T15:46:29.748Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -678,7 +678,7 @@
 	"id": "https://raw.githubusercontent.com/LEAF-VRE/demo-2025-01-17/main/Gerry%20Demo/Gerry-tei-entities.xml?person_annotation_20250117104503791",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-17T15:45:03.791Z",
-	"dcterms:modified": "2025-01-17T15:45:03.791Z",
+	"dcterms:modified": "2025-01-17T15:45:35.561Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -1061,7 +1061,7 @@
                French treasury &amp; a gratuity of fifty thousand pounds sterling to certain high
                officers of government, for distribution to prominent individuals. The envoys
                promptly resolved they would not purchase the right of negotiation. It was intimated
-               to Mr <persName ref="http://www.wikidata.org/entity/Q1325397" key="Elbridge Gerry">Gerry</persName> thot <persName>Talleyrand</persName> expected to
+               to Mr <persName key="Elbridge Gerry" ref="http://www.wikidata.org/entity/Q1325397">Gerry</persName> thot <persName>Talleyrand</persName> expected to
                have seen the American envoy &amp; to have conferred with them individually on the
                affairs of the mission. <persName>Gerry</persName> communicated the fact to
                   <persName>Pinkney</persName> &amp; <persName>Marshall</persName>; they advised him
