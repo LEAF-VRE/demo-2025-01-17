@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/LEAF-VRE/code_snippets/refs/heads/main/CSS/leaf.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/LEAF-VRE/code_snippets/refs/heads/main/CSS/leaf.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -15,8 +16,7 @@
             <p>Converted from DOCX</p>
          </sourceDesc>
       </fileDesc>
-      
-      <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData><encodingDesc>
+      <encodingDesc>
          <projectDesc>
             <p>Converted from DOCX to TEI using XSLT</p>
          </projectDesc>
@@ -26,53 +26,59 @@
       <body>
          <div>
             <div>
+               <pb n="1" facs="https://raw.githubusercontent.com/LEAF-VRE/demo-2025-01-17/refs/heads/main/Gerry_images/Plumer_vol5_008.jpg"/>
                <head>Elbridge Gerry.</head>
-               <p>The son of Thomas Gerry, a native of Newton, England, but emigrated to this country
-                  in 1730, was born at Marblehead, Massachusetts, the 17th of July 1744. He entered
-                  Harvard college before he was fourteen years of age, &amp; graduated there in
-                  1762.He was at first destined to the profession of medicine, to which he was
+               <p>The son of Thomas Gerry, a native of Newton, England, but emigrated to this
+                  country in 1730, was born at Marblehead, Massachusetts, the 17th of July 1744. He
+                  entered Harvard college before he was fourteen years of age, &amp; graduated there
+                  in 1762.He was at first destined to the profession of medicine, to which he was
                   strongly attached; but soon after he left college he engaged in the same business
                   his father followed &amp; at his request, that of a merchant; &amp; for some time
                   attended the routine of mercantile pur==suits in his native town. The knowlege he
                   acquired of commerce &amp; the modes of transacting that branch of business was
                   useful to him in future life.</p>
+               <pb n="2" facs="https://raw.githubusercontent.com/LEAF-VRE/demo-2025-01-17/refs/heads/main/Gerry_images/Plumer_vol5_009.jpg"/>
                <p>The strong political excitements of the times attracted his attention from the
-                  compting house, tho for the time he was successful, &amp; terminated his connection
-                  with commerce, to which he had little partiality. In the intervals of public
-                  employment he did indeedr esume the avocation, but as might be expected, when not
-                  steadily pursued with no great satisfaction or advantage; &amp; after a few years he
-                  finally abandoned it for other objects more congenial to his mind.</p>
+                  compting house, tho for the time he was successful, &amp; terminated his
+                  connection with commerce, to which he had little partiality. In the intervals of
+                  public employment he did indeedr esume the avocation, but as might be expected,
+                  when not steadily pursued with no great satisfaction or advantage; &amp; after a
+                  few years he finally abandoned it for other objects more congenial to his
+                  mind.</p>
                <p>He made his first appearance in public life as a represen==tative of his native
                   town in May 1772-a period when the royal government &amp; people were in a high
                   state of acrimony &amp; almost open collision. The next year he was re-elected,
-                  &amp; tho one of the youngest members, was appointed a member of the
-                  standing committee of correspondence &amp; enquiry with the other colonies; &amp; of
-                  the committee to prepare an address to the provinces. He was distinguished for his
+                  &amp; tho one of the youngest members, was appointed a member of the standing
+                  committee of correspondence &amp; enquiry with the other colonies; &amp; of the
+                  committee to prepare an address to the provinces. He was distinguished for his
                   zeal &amp; firmness in support of the rights of his country. His spirit was
                   nourished by close communion with the Adamses, the Hancocks, &amp; the Warrens of
                   those days. He entered early, from principle, in opposition to British
                   encroachments, &amp; continued one of the most uniform republicans to the end of
                   the contest. During the revolution, beside his own personal exertions, which were
-                  unre==mitted &amp; indefatigable, he did not hesitate, in many cases, to
-                  advance his own funds, when immediate payment was required, &amp; to incur
-                  responsibities on his own credit, which the government was then unable to redeem,
-                  &amp; which in fact, occassioned him in the end heavy pecuniary losses.</p>
-               <p>In 1774, in consequence of difficulties which arose in Marblehead on account of the
-                  small pox, he declined a re-election to the legislature. But in October he was
-                  elected member of an assembly which met at Salem, &amp; adjourned to Concord, where
-                  they assumed the form of a legisla==tive assembly under the name of the provincial
-                  congress.</p>
-               <p>In 1775 he was a member of the provincial congress of Massachusetts which virtually
-                  destroyed the royal authority in that province. He was chairman of the committee of
-                  supplies to provide ammunition &amp; pro==visions, &amp; to deposit them in some
-                  place of safety for future use. This trust he executed with great punctuality &amp;
-                  unwearied industry. On the 18th of April the British troops on their march to
-                  Lexington, in the middle of  the night, passed the house in which the committee held
-                  their ses==sion. After the foremost of the troops passed, Gerry from his bed saw a
-                  portion of them preparing to surround the house, he sprang from his bed, &amp; half
-                  dressed escaped undiscovered &amp; concealed himself in a cornfield, till the
-                  troops entered &amp; searched the house &amp; bed chambers, and joined the main
-                  body &amp; marched off; Gerry then returned, &amp; tho his bed had been rumpled, he found his clothing &amp; watch safe.Being ardent &amp;
+                  unre==mitted &amp; indefatigable, he did not hesitate, in many cases, to advance
+                  his own funds, when immediate payment was required, &amp; to incur responsibities
+                  on his own credit, which the government was then unable to redeem, &amp; which in
+                  fact, occassioned him in the end heavy pecuniary losses.</p>
+               <p>In 1774, in consequence of difficulties which arose in Marblehead on account of
+                  the small pox, he declined a re-election to the legislature. But in October he was
+                  elected member of an assembly which met at Salem, &amp; adjourned to Concord,
+                  where they assumed the form of a legisla==tive assembly under the name of the
+                  provincial congress.</p>
+               <p>In 1775 he was a member of the provincial congress of Massachusetts which
+                  virtually destroyed the royal authority in that province. He was chairman of the
+                  committee of supplies to provide ammunition &amp; pro==visions, &amp; to deposit
+                  them in some place of safety for future use. This trust he executed with great
+                  punctuality &amp; unwearied industry. On the 18th of April the British troops on
+                  their march to Lexington, in the middle of  the night, passed the house in which
+                  the committee held their ses==sion. After the foremost of the troops passed, Gerry
+                  from his bed saw a portion of them preparing to surround the house, he sprang from
+                  his bed, &amp; half dressed escaped undiscovered &amp; concealed himself in a
+                  cornfield, till the troops entered &amp; searched the house &amp; bed chambers,
+                  and joined the main body &amp; marched off; Gerry then returned, &amp; tho his bed
+                  had been rumpled, he found his clothing &amp; watch safe.</p>
+               <pb n="3" facs="https://raw.githubusercontent.com/LEAF-VRE/demo-2025-01-17/refs/heads/main/Gerry_images/Plumer_vol5_010.jpg"/>
+               <p>Being ardent &amp;
                   persevering in his measures to oppose the publicenemy, early in November he
                   proposed that the provincial congressshould raise a committee upon the subject of
                   fitting out armedvessels &amp; establishing a court for the trial &amp;
@@ -110,7 +116,9 @@
                   finished, others presented themselvesequally important &amp; I waited for them,
                   &amp; so on; but this mode of travellingwill never get me home. I must therefore
                   determine at all events to leavethis place in the spring." The 24th of April he
-                  says, "I wish to see a return ofsome of my colleagues, in order to obtain such
+                  says, "I wish to see a return of 
+                  <pb n="4" facs="https://raw.githubusercontent.com/LEAF-VRE/demo-2025-01-17/refs/heads/main/Gerry_images/Plumer_vol5_011.jpg"/>
+                  some of my colleagues, in order to obtain such
                   relaxation from business,as at length has become indispenably necessary for
                   preserving my health.Two years constant attention to the business of congress
                   &amp; the board ofthe treasury, the members of which have been unequal in number
@@ -150,7 +158,9 @@
                <p>On the 31st of January 1781 he was elected a member of the AmericanAcademy of Arts
                   &amp; Sciences. In October he was elected a representativeby the inhabitants of
                   Marblehead, &amp; a senator by the county of Essex, tothe Massachusetts
-                  legitature. The office of senator he declined, but that of representative he
+                  legitature. The office of senator he declined, but that 
+                  <pb n="5" facs="https://raw.githubusercontent.com/LEAF-VRE/demo-2025-01-17/refs/heads/main/Gerry_images/Plumer_vol5_012.jpg"/>
+                  of representative he
                   accepted. In April 1782 he was again electedsenator, but again declined the
                   office.</p>
                <p>The 21st of June 1781 he was again elected a delegate to the congress of theUnited
@@ -190,7 +200,9 @@
                   which met at Philadelphia &amp; formed the constitution of the UnitedStates. On
                   the 29th of May 1787 he attended &amp; took part in the business anddebates of
                   that assembly; but having arrived at the conclusion in his own mindthat it did not
-                  comport with the well being of the country, with regret. But without hesitation,
+                  comport with the well being of the country, with regret. But 
+                  <pb n="6" facs="https://raw.githubusercontent.com/LEAF-VRE/demo-2025-01-17/refs/heads/main/Gerry_images/Plumer_vol5_013.jpg"/>
+                  without hesitation,
                   he declined signing the constitution. In his letterof the 18th of October
                   following to the president of the Senate &amp; speaker ofthe house of
                   representatives of Massachusetts, he stated his objectionsto the constitution in a
@@ -229,6 +241,7 @@
                   beenheaped upon him, for acting according to his own judgment re==specting the
                   constitution of the United States, he says, "Somehave endeavored to represent me
                   as an enemy to the constitution; than which nothing is more remote from truth.</p>
+               <pb n="7" facs="https://raw.githubusercontent.com/LEAF-VRE/demo-2025-01-17/refs/heads/main/Gerry_images/Plumer_vol5_014.jpg"/>
                <p>Since the commencement of the revolution, I have been solicitiousfor an efficient
                   federal government, conceiving that without it wemust be a divided &amp; unhappy
                   people. A government too democraticalI have deprecated; but wished for one that
@@ -242,7 +255,7 @@
                <p>"Amendments every citizen has a right to urge without enciting aspirit of
                   prosecution, which is unnecessary in a good cause, &amp; never gainsproselytes in
                   a bad one. Every friend of a vigorous government, as Iconceive, must be desirous
-                  of such amendments as will remove thejust apprehensions of the people, &amp;
+                  of such amendments as will remove the just apprehensions of the people, &amp;
                   secure their confidence &amp; affection. Todefeat amendments of this description,
                   must be in effect to defeat theconstitution itself. When the question on
                   amendments shall havereceived a constitutional decision; I shall cheerfully
@@ -268,7 +281,8 @@
                   not the slightert reason to doubt thetruth &amp; sincerty of his declaration.</p>
                <p>On the 8th of April 1789 he took his seat in congress. When someof the members
                   were for considering the subject of amendements.before they had passed the laws
-                  necessary to carry the new government into full effect, he opposed that object. In
+                  necessary to carry the new
+                  <pb n="8" facs="https://raw.githubusercontent.com/LEAF-VRE/demo-2025-01-17/refs/heads/main/Gerry_images/Plumer_vol5_015.jpg"/>government into full effect, he opposed that object. In
                   the course ofdebate he said, "I am of opinion that we should dispatch the
                   importantsubjects now on the table, &amp; reserve the great questions concerning
                   theconstitution; to a period of tranquility &amp; leisure. It is indeed a
@@ -309,7 +323,8 @@
                   &amp; a gratuity of fifty thousand pounds sterling to certain high officers
                   ofgovernment, for distribution to prominent individuals. The envoys
                   promptlyresolved they would not purchase the right of negotiation. It was
-                  intimated to Mr Gerry thot Talleyrand expected to have seen the American
+                  intimated 
+                  <pb n="9" facs="https://raw.githubusercontent.com/LEAF-VRE/demo-2025-01-17/refs/heads/main/Gerry_images/Plumer_vol5_016.jpg"/>to Mr Gerry thot Talleyrand expected to have seen the American
                   envoy&amp; to have conferred with them individually on the affairs of the
                   mission.Gerry communicated the fact to Pinkney &amp; Marshall; they advised him
                   tocall, but declined going themselves. He reluctantly consented, &amp; had
@@ -347,16 +362,18 @@
                   one of them. The envoys not being accredited,but exposed to personal &amp;
                   official mortifications of a humiliating kind, requested that letters of safe post
                   should be granted to them individuallyor to such as they pleased. Letters were
-                  accordingly granted to Pinkney &amp; Marshall, but not to Gerry; &amp; the two
+                  accordingly granted to Pinkney 
+                  <pb n="10" facs="https://raw.githubusercontent.com/LEAF-VRE/demo-2025-01-17/refs/heads/main/Gerry_images/Plumer_vol5_017.jpg"/>&amp; Marshall, but not to Gerry; &amp; the two
                   former soon after embarked for the United States.</p>
                <p>On the 3d of April Talleyrand wrote Gerry that he believed the other twoenvoys had
                   withdrawn from the French territories, &amp; expressed a desireto resume
                   communications with him upon the interests of France &amp;the United States. The
                   next day Gerry informed him that as an indi==vidual he would confer, but the
-                  commission being jointly to threeenvoys, as a minister he had no authority. On the
+                  commission being jointly to three envoys, as a minister he had no authority. On the
                   20th he wrote Talley==rand, That as his colleagues from necessity had left Paris;
                   to prevent arupture between the two nations he had consented to remain; buthis
-                  conferences must be informal-&amp; that he should communicate themto his
+                  conferences must be informal-&amp;
+                  that he should communicate themto his
                   government, but without official authority. Talleyrand abandonedthe demand of a
                   loan, &amp; the explanation of the president's speech; andannounced the
                   willingness of the government to give Mr Gerry a publicreception.</p>
@@ -383,7 +400,8 @@
                   various pre==tents, delayed it till the 26th of July, when he left Paris for
                   Havre.There he received an arrete from the French government restrainingthe
                   irregular &amp; vexatious conduct of privateers in the West Indian Seas&amp;
-                  assurances given that all other anangements should conform to the just
+                  assurances given that all other anangements should conform to the 
+                  <pb n="11" facs="https://raw.githubusercontent.com/LEAF-VRE/demo-2025-01-17/refs/heads/main/Gerry_images/Plumer_vol5_018.jpg"/>just
                   expectations of the United States. The benefits which Mr Gerryconsidered as
                   resulting from his residence in that country was, an expressrenunciation on the
                   part of France of loans; of reparation for the presi==sidents speech; a
@@ -419,7 +437,8 @@
                   he alone discovered &amp; furnished evi==dence that X.Y &amp;Z. were employed by
                   Talleyrand; &amp; he alonebrot home the direct, formal, &amp; official
                   assuran==ces upon which the subsequent commission proceeded &amp; peace
-                  made."After his return from France a number of his friends were desirous that he
+                  made."After his return from France a number of his friends were desirous
+                  <pb n="12" facs="https://raw.githubusercontent.com/LEAF-VRE/demo-2025-01-17/refs/heads/main/Gerry_images/Plumer_vol5_019.jpg"/> that he
                   should be candidate for representative to congress; buthe positively declined it.
                   In April 1800 &amp; 1801 he was supportedas candidate for governor of
                   Massachusetts, but the opposing can==didate succeeded by a small majority: in the
@@ -453,7 +472,8 @@
                   become not only active but violent. The go==vemor in his speech, of the 7th of
                   June, to the legislature, speakingof the appointments he had made, says, "To
                   diminish, &amp; if possible toexterminate party spirit, the executive of this
-                  commonwealth, during in the last year, has confirmed in his place, or re-appointed
+                  commonwealth, during
+                  <pb n="13" facs="https://raw.githubusercontent.com/LEAF-VRE/demo-2025-01-17/refs/heads/main/Gerry_images/Plumer_vol5_020.jpg"/>in the last year, has confirmed in his place, or re-appointed
                   within or requisite, every state officer under his control, who has been correct
                   inhis conduct, &amp; faithful to his trust; disregarding his polities, &amp;
                   requir=­=ing only his support of the federal &amp; state constitutions,
@@ -488,6 +508,7 @@
                   indefatigableapplication which few men can equal. Forming his opinions
                   withdeliberation, he yielded them with reluctance. Feeling the convictionarising
                   from thorough investigation, it was not easy to change his results.</p>
+               <pb n="14" facs="https://raw.githubusercontent.com/LEAF-VRE/demo-2025-01-17/refs/heads/main/Gerry_images/Plumer_vol5_021.jpg"/>
                <p>The tenacity with which he clung to such sentiments as his judgmentapproved was at
                   times too determined, &amp; probably obstinate. This tendencywas increased by
                   another, which was the weakest trait of his mind.He was habitually suspicious,
@@ -524,6 +545,7 @@
                   received fromhis friends, &amp; from applicants for office, were numerous. The
                   mere read==ing was fatiguing &amp; oppressive, &amp; often deprived him of
                   bothrest &amp; exercise. He politely answered as many of them as he was able.</p>
+               <pb n="15" facs="https://raw.githubusercontent.com/LEAF-VRE/demo-2025-01-17/refs/heads/main/Gerry_images/Plumer_vol5_022.jpg"/>
                <p>There was a town in Massachusetts incorporated by his namebut in 1814 the town
                   petitioned legislature to change its nameto Phillipstown, alledging that Gerry
                   while chief magistrate hadrendered "the name itself a term of odium &amp;
@@ -558,7 +580,8 @@
                <p>The next day he was buried, under the direction of a committee ofthe Senate, in
                   the city of Washington. Congress afterwards erected amonument of white marble over
                   his remains, with the following in==scription. "The tomb of Elbridge Gerry. vice
-                  president of the United States, who died suddenly in this city, November 23, 1814,
+                  president of the United
+                  <pb n="16" facs="https://raw.githubusercontent.com/LEAF-VRE/demo-2025-01-17/refs/heads/main/Gerry_images/Plumer_vol5_023.jpg"/>States, who died suddenly in this city, November 23, 1814,
                   on his wayto the capitol as president of the Senate, aged seventy years.
                   Thusfulfilling his own memorable injunction. It is the duty of everyman, tho he
                   may have but one day to live, to devote that day to thegood of his country.</p>
