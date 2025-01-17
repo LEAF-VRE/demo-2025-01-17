@@ -1,0 +1,669 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/LEAF-VRE/code_snippets/refs/heads/main/CSS/leaf.css" title="LEAF" alternate="no"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="biography">
+            <head><persName>Elbridge Gerry</persName>.</head>
+            <p>The son of <persName>Thomas Gerry</persName>, a native of <placeName>Newton,
+                  England</placeName>, but emigrated to this country in <date>1730</date>, was born
+               at <placeName>Marblehead, Massachusetts</placeName>, the <date>17th of July
+                  1744</date>. He entered <orgName>Harvard college</orgName> before he was fourteen
+               years of age, &amp; graduated there in <date>1762</date>. He was at first destined to
+               the profession of medicine, to which he was strongly attached; but soon after he left
+               college he engaged in the same business his father followed &amp; at his request,
+               that of a merchant; &amp; for sometime attended the routine of mercantile pursuits in
+               his native town. The knowlege he acquired of commerce &amp; the modes of transacting
+               that branch of business was useful to him in future life.</p>
+
+            <p>The strong political excitements of the times attracted his attention from the
+               compting house, tho for the time he was successful, &amp; terminated his connection
+               with commerce, to which he had little partiality. In the intervals of public
+               employment he did indeed resume the avocation, but as might be expected, when not
+               steadily pursued with no great satisfaction or advantage; &amp; after a few years he
+               finally abandoned it for other objects more congenial to his mind.</p>
+
+            <p>He made his first appearance in public life as a representative of his native town in
+                  <date>May 1772</date>-a period when the royal government &amp; people were in a
+               high state of acrimony &amp; almost open collision. The next year he was re-elected,
+               &amp; tho one of the youngest members, was appointed a member of the standing
+               committee of correspondence &amp; enquiry with the other colonies; &amp; of the
+               committee to prepare an address to the provinces. He was distinguished for his zeal
+               &amp; firmness in support of the rights of his country. His spirit was nourished by
+               close communion with the <persName>Adamses</persName>, the
+                  <persName>Hancocks</persName>, &amp; the <persName>Warrens</persName> of those
+               days.</p>
+
+            <p>In <date>1774</date>, in consequence of difficulties which arose in
+                  <placeName>Marblehead</placeName> on account of the small pox, he declined a
+               re-election to the legislature. But in <date>October</date> he was elected member of
+               an assembly which met at <placeName>Salem</placeName>, &amp; adjourned to
+                  <placeName>Concord</placeName>, where they assumed the form of a legislative
+               assembly under the name of the provincial congress.</p>
+
+            <p>In <date>1775</date> he was a member of the provincial congress of
+                  <placeName>Massachusetts</placeName> which virtually destroyed the royal authority
+               in that province. He was chairman of the committee of supplies to provide ammunition
+               &amp; provisions, &amp; to deposit them in some place of safety for future use. This
+               trust he executed with great punctuality &amp; unwearied industry. On the <date>18th
+                  of April</date> the British troops on their march to
+                  <placeName>Lexington</placeName>, in the middle of the night, passed the house in
+               which the committee held their session. After the foremost of the troops passed,
+                  <persName>Gerry</persName> from his bed saw a portion of them preparing to
+               surround the house, he sprang from his bed, &amp; half dressed escaped undiscovered
+               &amp; concealed himself in a cornfield, till the troops entered &amp; searched the
+               house &amp; bed chambers, and joined the main body &amp; marched off;
+                  <persName>Gerry</persName> then returned, &amp; tho his bed had been rumpled, he
+               found his clothing &amp; watch safe.</p>
+
+            <p>Being ardent &amp; persevering in his measures to oppose the public enemy, early in
+                  <date>November</date> he proposed that the provincial congress should raise a
+               committee upon the subject of fitting out armed vessels &amp; establishing a court
+               for the trial &amp; condemnation of assizes. The committee was appointed, a bill
+               reported, &amp; passed; &amp; soon after the council appointed him, under the
+               authority of that Act, maritime judge for the counties of
+                  <placeName>Suffolk</placeName>, <placeName>Middlesex</placeName>, &amp;
+                  <placeName>Essex</placeName>; but thinking he could be more useful as a legislator
+               &amp; preferring it to that of a judge, he declined the appointment.</p>
+
+            <p>On the <date>18th of January 1776</date> he was elected a delegate to the general
+               congress, &amp; on the <date>9th of February</date> following took his seat, &amp;
+               continued such under other elections till the <date>5th of July 1780</date>. As a
+               delegate he was constantly attentive, active, industrious, exact, &amp; tenacious of
+               public &amp; private honor, &amp; rendered great service to the nation. He was a
+               zealous &amp; able advocate for the independence of this country, &amp; signed the
+               declaration of it. From his first entrance into congress, till the organization of
+               the treasury board in <date>1780</date>, he continued to be a member, &amp; generally
+               chairman of the committee of the treasury. In his capacity of presiding officer of
+               the board of the treasury, he rendered himself particularly invidious to general
+                  <persName>Arnold</persName>, whose extravagant accounts he rejected with a spirit
+               which deserves admiration, as <persName>Arnold</persName> was then known only as a
+               gallant soldier, whose skill &amp; courage had been conspicuously exerted for his
+               country, &amp; the liberality with which such talents &amp; activity were then
+               promptly rewarded, inclined men to a favorable consideration of his claim.</p>
+
+            <p>To <persName>Arnold</persName>'s abusive appeal to congress, for he appealed there,
+               Mr <persName>Gerry</persName> replied, and after exhibiting with great calmness the
+               reasons of his decisions on his accounts, concluded with a severe reprehension of the
+               conduct of his assailant. "If," said he, "the faithful discharge of our official
+               duty, unpleasant enough in itself, is to bring with it the liability of personal
+               attack of men who have neither honesty in their public dealings nor curtesy in
+               private life, it might be well to abolish all guards on the treasury, &amp; admit
+               rapacity &amp; crime to help themselves at pleasure." This was intrepid language at
+               the period, &amp; must be sound doctrine at all times.</p>
+
+            <p>On the <date>14th of January 1778</date>, in a letter to a friend, he says, "I am
+               worn down with fatigue, &amp; have been waiting with some impatience to return to
+                  <placeName>Massachusetts</placeName>; but I have wished to see certain measures
+               accomplished before I left congress; when those were finished, others presented
+               themselves equally important &amp; I waited for them, &amp; so on; but this mode of
+               travelling will never get me home. I must therefore determine at all events to leave
+               this place in the spring." The <date>24th of April</date> he says, "I wish to see a
+               return of some of my colleagues, in order to obtain such relaxation from business, as
+               at length has become indispenably necessary for preserving my health. Two years
+               constant attention to the business of congress &amp; the board of the treasury, the
+               members of which have been unequal in number to the duties required, with opportunity
+               for very little exercise, is rather hazardous to the constitution, &amp; I feel the
+               effects of it." The <date>26th of May</date> he says, "I had before this thot to have
+               set off for <placeName>Massachusetts</placeName>, but have not been able to break
+               away from the incessant labors which occupy me day &amp; night much of this time
+               &amp; close application was devoted to forming &amp; vindicating the articles of
+               confederation between the States." Near the close of <date>1779</date> he was
+               appointed at the head of the committee chosen by <placeName>Massachusetts</placeName>
+               to meet delegates from other states at <placeName>Philadelphia</placeName>, to devise
+               a corrective for the deplorable state of the paper currency.</p>
+
+            <p>On the <date>19th of February 1780</date>, upon the question of proportioning
+               supplies to be furnished by the several states &amp; the value of them, he moved that
+               the prices should conform to those agreed upon by a convention previously held at
+                  <placeName>New Haven</placeName>. This motion was objected to as being out of
+               order; on the question of order, he requested the yeas &amp; nays, but congress
+               refused to record them. This course he considered improper &amp; injurious to
+                  <placeName>Massachusetts</placeName>, who he thot was required to contribute more
+               then her equal proportion to the common cause. He therefore on the <date>5th
+                  July</date> left congress where he had devoted, without recess or intermission
+               four years &amp; a half to his official labors for which he received about four
+               thousand dollars specie value.</p>
+
+            <p>Soon after his return to <placeName>Massachusetts</placeName>, he made his complaint
+               to their general assembly; the house approved of his conduct, &amp; voted to sustain
+               his complaint but the council probably thinking the opinion expressed by the popular
+               branch would answer all the purposes proposed by the measure let the resolve lie on
+               the table. This course did not satisfy Mr <persName>Gerry</persName>. In
+                  <date>November</date> he was re-elected delegate to congress, but declined the
+               appointment, assigning as a reason that the rights &amp; prerogatives of the state
+               had been invaded in his person, &amp; no redress had on his own application, &amp; no
+               demand had been made by his constituents. The court resolved that they approved of
+               the high sense which he had of his right of priviledge, and instructed their
+               delegates to make such representation to congress as the importance of the subject
+               required. Their delegates accordingly presented a remonstrance &amp; protest against
+               the proceedings of congress, which was placed in their files. Tho Mr
+                  <persName>Gerry</persName> was absent, congress appointed him a member of the
+               committee to visit the army.</p>
+
+            <p>On the <date>31st of January 1781</date> he was elected a member of the
+                  <orgName>American Academy of Arts &amp; Sciences</orgName>. In
+                  <date>October</date> he was elected a representative by the inhabitants of
+                  <placeName>Marblehead</placeName>, &amp; a senator by the county of
+                  <placeName>Essex</placeName>, to the <placeName>Massachusetts</placeName>
+               legitature. The office of senator he declined, but that of representative he
+               accepted. In <date>April 1782</date> he was again elected senator, but again declined
+               the office.</p>
+
+            <p>The <date>21st of June 1781</date> he was again elected a delegate to the congress of
+               the <placeName>United States</placeName>; but the controversy which induced him to
+               leave congress the preceeding year not being settled, nor such measures adopted by
+               the State in relation to it as he thot satisfactory, he formally declined the
+               appointment; but the legislature did not accept his decline. In <date>June
+                  1782</date> the legislature re-appointed him delegate to congress; &amp; in
+                  <date>June 1783</date> they again re-appointed him. Yielding to the solicitations
+               of personal &amp; political friends, &amp; satisfied at length with the measures
+               which had been taken on his remonstrance, he resumed his seat in congress on the
+                  <date>third of November</date> following, where he remained till some time in
+                  <date>September 1785</date>, when he closed his career in the old congress. It is
+               said that at the age of less than forty two years he had been longer a member of
+               congress than any other man in it. He was opposed to the society of
+                  <orgName>Cincinnati</orgName>-he considered it too aristocratical for our
+               institutions, &amp; as having a tendency to introduce an order of nobility into the
+               country.</p>
+
+            <p>He preserved his habits of industry, &amp; close attention to every subject that was
+               moved in congress; he transcribed with his own hands their public &amp; private
+               proceedings during every day of his attendance. Congress appointed him one of the
+               commissioners to settle with the contractors of the army; but he declined the
+               appointment.</p>
+
+            <p>Before he left congress, but after he was more than forty years old, he married a
+               daughter of <persName>James Thompson</persName> of <placeName>New York</placeName>.
+               By her he had a numerous family of children. She, and three sons, &amp; six daughters
+               survived him.</p>
+
+            <p>In <date>May 1785</date> he was elected a member of the Senate of
+                  <placeName>Masachusetts</placeName>, but declined the office; observing he was
+               elected a representative, which he intended to accept as soon as his term of delegate
+               to congress should expire.</p>
+
+            <p>In <date>1786</date> he was appointed by the legislature of
+                  <placeName>Massachusetts</placeName> one of their delegates to meet delegates from
+               the other States at <placeName>Annapolis</placeName> the first of
+                  <date>September</date>, to consider the commerce of the <placeName>United
+                  States</placeName>, &amp; how far a uniform system of commercial regulations was
+               necessary, &amp; to report a bill upon the subject to congress. The delegates from
+                  <placeName>Massachusetts</placeName> considered the plan too limited &amp;
+               inefficient for the purpose, &amp; severally declined the appointments. At the
+               meeting only five States attended at <placeName>Annapolis</placeName>; &amp; nothing
+               was done, except recommending the States to appoint a convention to meet the next
+               year at <placeName>Philadelphia</placeName>.</p>
+
+            <p>The general court of <placeName>Masachusetts</placeName> appointed him a delegate to
+               the convention, which met at <placeName>Philadelphia</placeName> &amp; formed the
+               constitution of the <placeName>United States</placeName>. On the <date>29th of May
+                  1787</date> he attended &amp; took part in the business and debates of that
+               assembly; but having arrived at the conclusion in his own mind that it did not
+               comport with the well being of the country, with regret. But without hesitation, he
+               declined signing the constitution. In his letter of the <date>18th of October</date>
+               following to the president of the Senate &amp; speaker of the house of
+               representatives of <placeName>Massachusetts</placeName>, he stated his objections to
+               the constitution in a frank &amp; candid manner, addressed to their understanding,
+               not their passions.</p>
+
+            <p>"My principal objections," he says, "to the plan are, there is no adequate provision
+               for a representation of the people; that they have no security for the right of
+               election; that some of the legislature are ambiguous, &amp; others indefinite &amp;
+               dangerous, that the executive is blended with, &amp; will have an undue influence
+               over, the legislature; that the judicial departments will be oppressive; that
+               treaties of the highest importance may be formed by the president with the advice of
+               two thirds of a quorum of the Senate; &amp; that the system is without the security
+               of a bill of rights." But in the conclusion he says, "I shall only add, that as the
+               public welfare requires a better constitution than the confederation, I shall think
+               it my duty, as a citizen of <placeName>Massachusetts</placeName>, to support that
+               which shall be finally adopted, sincerely hoping it will secure the liberty &amp;
+               happiness of <placeName>America</placeName>."</p>
+
+            <p>The convention of <placeName>Massachusetts</placeName>, which met the <date>9th of
+                  January 1788</date>, to decide the question whether they would ratify the
+               constitution, on the <date>14th of that month</date> voted that Mr
+                  <persName>Gerry</persName> "be requested to take a seat in the convention, to
+               answer any questions of fact from time to time, that the convention may ask,
+               respecting the passing of the constitution;" &amp; appointed a committee to request
+               him to attend, &amp; he attended accordingly. On the <date>18th</date> the convention
+               voted that his answers should be in writing; with which he complied. On the
+                  <date>22nd</date> he wrote a long letter to the convention respecting the
+               constitution; to which objections &amp; some pointed remarks were made; &amp; no
+               further communications appear to have been made by him. His opposition to the
+               constitution exposed him to the censure of many of his former political friends,
+               &amp; to much abuse in the journals of the day. He felt severely the revulsion of
+               public opinion, &amp; the loss of popularity. At the first election of
+               representatives to congress under that constitution, he was brot forward as a
+               candidate; but at the first meetings in <placeName>Middlesex</placeName> there was no
+               choice, &amp; previous to the second his friends again named him.</p>
+
+            <p>He then published, under his own signature, a manly address to the electors,
+               requesting such of them as were disposed to vote for him to turn their attention to
+               some other candidate explicitly declaring that an election would by no means be
+               agreeable to him. After mentioning the unjust accusations &amp; abuse which had been
+               heaped upon him, for acting according to his own judgment respecting the constitution
+               of the <placeName>United States</placeName>, he says, "Some have endeavored to
+               represent me as an enemy to the constitution; than which nothing is more remote from
+               truth.</p>
+
+            <p>Since the commencement of the revolution, I have been solicitous for an efficient
+               federal government, conceiving that without it we must be a divided &amp; unhappy
+               people. A government too democratical I have deprecated; but wished for one that
+               possessed powers sufficient for the welfare of the union, &amp; at the same time so
+               balanced as to secure the governed from the rapacity &amp; domination of lawless
+               &amp; insolent ambition. To an unconstitutional ratification I was therefore opposed,
+               because thereby every necessary amendment would be precarious. But as the system is
+               adopted, I am clearly of opinion that every citizen of the ratifying States is in
+               duty bound to support it, &amp; that an opposition to a due administration of it
+               would not only be unjustifiable but highly criminal.</p>
+
+            <p>"Amendments every citizen has a right to urge without enciting a spirit of
+               prosecution, which is unnecessary in a good cause, &amp; never gains proselytes in a
+               bad one. Every friend of a vigorous government, as I conceive, must be desirous of
+               such amendments as will remove the just apprehensions of the people, &amp; secure
+               their confidence &amp; affection. To defeat amendments of this description, must be
+               in effect to defeat the constitution itself. When the question on amendments shall
+               have received a constitutional decision; I shall cheerfully acquiese, &amp; in any
+               event, shall be happy to promote the interests of the respectable county of
+                  <placeName>Middlesex</placeName>, of this commonwealth, &amp; of the
+                  <placeName>United States</placeName>.</p>
+
+            <p>"The part, which I have had to act, &amp; the uncandid treatment, &amp; the which I
+               have received in this matter will, I trust, justify me in being thus explicit, for I
+               am conscious that every part of my political conduct has had for its object, the
+               public welfare."</p>
+
+            <p>At the second meeting he was elected by a small majority. In his letter of acceptance
+               to the governor he says. "I am deeply impressed with the honorable testimony of the
+               electors of <placeName>Middlesex</placeName>, after I had repeatedly informed them of
+               my declining the appointments. This however has placed me in a situation, which of
+               all others I wished to avoid; being thereby reduced to the disagreeable alternative
+               of disappointing my fellow citizens; who have conferred on me their suffrages, or of
+               filling a place, which the most cogent reasons had urged me to decline. Under these
+               circumstances, in the critical state of public affairs, I have preferred the latter,
+               being determined to sacrifice every personal consideration, to the acceptance of the
+               office; that desirous as I am of the establishment of a federal government, no act of
+               mine may have the least appearance of impeding it."</p>
+
+            <p>To his confidential friends he wrote on this subject in the same strain; &amp; there
+               is not the slightert reason to doubt the truth &amp; sincerty of his declaration.</p>
+
+            <p>On the <date>8th of April 1789</date> he took his seat in congress. When some of the
+               members were for considering the subject of amendements before they had passed the
+               laws necessary to carry the new government into full effect, he opposed that object.
+               In the course of debate he said, "I am of opinion that we should dispatch the
+               important subjects now on the table, &amp; reserve the great questions concerning the
+               constitution; to a period of tranquility &amp; leisure. It is indeed a momentuos
+               subject, &amp; very near my heart, &amp; I shall be glad to set about it as speedily
+               as possible; but I would not stay the operation of government on that account. I
+               think our political ship should first be got under way, &amp; that she be not
+               suffered to rot at the wharf, till she beats off her rudder, or runs a wreck on the
+               shore. I wish an early day may be assigned for the consideration of amendments, to
+               prevent the necessity, which the States may feel themselves under of calling a new
+               convention. I am not one of those facinated admirers of the system who consider it
+               all perfection; I am not so blind or so uncandid, that I cannot see, or will not
+               acknowlege it has beauties. It partakes of humanity; there is blended in it virtue
+               &amp; vice, excellence &amp; error. If it is referred to a new convention, we risk
+               some of its best properties. My opinion was openly given, that it ought not to have
+               been ratified without amendments, but as the matter now stands, I am firmly of
+               opinion that the salvation of <placeName>America</placeName> depends on the
+               establishment of this government, whether amended or not. If this constitution, which
+               is now ratified, be not supported, I despair of ever having a government for these
+                  <placeName>United States</placeName>."</p>
+
+            <p>In <date>1791</date> he was re-elected a representative to congress, &amp; held the
+               office till the <date>3d of March 1793</date>. Having served four years, he declined
+               a re-election.</p>
+
+            <p>In the years <date>1796</date> &amp; <date>1804</date> he was chosen an elector of
+               president &amp; vice president of the <placeName>United States</placeName>.</p>
+
+            <p>On the <date>22d of June 1797</date> he was appointed envoy extraordinary jointly
+               with <persName>Pinkney</persName> &amp; <persName>Marshall</persName> to
+                  <placeName>France</placeName>. Nothing could have been more unexpected to him than
+               this appointment, which he reluctantly accepted; &amp; on the <date>9th of
+                  August</date> following embarked for that country. On the <date>4th October</date>
+               the thee envoys met in <placeName>Paris</placeName>, &amp; the next day announced
+               their arrival to <persName>Talleyrand</persName> the minister of foreign affairs,
+               &amp; requested an opportunity to present their letters of evidence. Three days after
+               they had an interview with the minister, delivered the letters of evidence, &amp;
+               received cards of hospitality.</p>
+
+            <p>In a day or two the private &amp; confidential secretary of the minister intimated to
+               the secretary of one of the envoys, that some part of the president's speech to
+               congress required an explanation; &amp; that the envoys would not probably have an
+               audience tell the negotiation was finished. Anonymous persons, afterwards designated
+               by X.Y.&amp;Z, called upon the envoys, &amp; proposed that they should give a
+               softening turn to the presidents speech; make a loan of some millions of money to the
+               French treasury &amp; a gratuity of fifty thousand pounds sterling to certain high
+               officers of government, for distribution to prominent individuals. The envoys
+               promptly resolved they would not purchase the right of negotiation. It was intimated
+               to Mr <persName>Gerry</persName> thot <persName>Talleyrand</persName> expected to
+               have seen the American envoy &amp; to have conferred with them individually on the
+               affairs of the mission. <persName>Gerry</persName> communicated the fact to
+                  <persName>Pinkney</persName> &amp; <persName>Marshall</persName>; they advised him
+               to call, but declined going themselves. He reluctantly consented, &amp; had several
+               interviews with <persName>Tallyrand</persName>, at which they occasionally discussed
+               the relations of the <placeName>United States</placeName> &amp;
+                  <placeName>France</placeName>.</p>
+
+            <p>After waiting thirty days, one of the envoys proposed to address the minister in an
+               official note, requesting his attention to their situation, &amp; demanding that
+               measures should be taken to open the negotiation. Mr <persName>Gerry</persName> was
+               of opinion it would be useless; but signed with the other envoys a letter to the
+               minister. To this letter no answer was returned; but they were given to understand it
+               was laid before the executive directory, who would command their minister what steps
+               to pursue. <persName>Talleyrand</persName> informed Mr <persName>Gerry</persName>
+               that no treaty would be made with the envoys, without an apology for the presidents
+               speech, or an equivalent; but that a voluntary offer of a loan would be accepted as
+               an equivalent. In consequence of <persName>Gerry</persName>'s visit to
+                  <persName>Talleyrand</persName>, the latter invited the former to one of his
+               customary dinners, &amp; Mr <persName>Gerry</persName> afterwards returned the
+               civility; but his separation from his colleagues was so unpleasant, that with a
+               single exception he afterwards declined all personal attention to
+                  <persName>Talleyrand</persName>. All three of the envoys signed a report to the
+               government of the <placeName>United States</placeName>, that there was no prospect of
+               effecting the object of their mission, without the payment of a large sum of
+               money.</p>
+
+            <p>On the <date>4th of February 1798</date>, <persName>Talleyrand</persName> invited Mr
+                  <persName>Gerry</persName> to call upon him; at their meeting
+                  <persName>Talleyrand</persName>, after enjoining profound secrecy, informed
+                  <persName>Gerry</persName> that the directory had determined not to treat with
+                  <persName>Pinkney</persName> &amp; <persName>Marshall</persName> but were willing
+               to commence negotiations with him. On the <date>27th of that month</date> the envoys
+               demanded of <persName>Tallyrand</persName> an audience; &amp; on the <date>2d &amp;
+                  6th of March</date> were admitted.</p>
+
+            <p>He insisted on a loan. <persName>Pinkney</persName> and <persName>Marshall</persName>
+               were decidedly against it; but <persName>Gerry</persName> appeared, at the
+               conferences, silent on the subject. But when the envoys were together by themselves,
+                  <persName>Gerry</persName> stated his opinion, that he thot a loan preferable to a
+               war, &amp; was therefore willing to open negotiation upon the basis of a loan, &amp;
+               when a treaty was formed not agree to it without the sanction of our government; but
+               the other two envoys met the proposition with an unqualified negative. On the
+                  <date>18th of that month</date>
+               <persName>Talleyrand</persName> in an official letter to the envoys avows the opinion
+               that the directory will not treat with the three envoys, but with one of them. The
+               envoys not being accredited, but exposed to personal &amp; official mortifications of
+               a humiliating kind, requested that letters of safe post should be granted to them
+               individually or to such as they pleased. Letters were accordingly granted to
+                  <persName>Pinkney</persName> &amp; <persName>Marshall</persName>, but not to
+                  <persName>Gerry</persName>; &amp; the two former soon after embarked for the
+                  <placeName>United States</placeName>.</p>
+
+            <p>On the <date>3d of April</date>
+               <persName>Talleyrand</persName> wrote <persName>Gerry</persName> that he believed the
+               other two envoys had withdrawn from the French territories, &amp; expressed a desire
+               to resume communications with him upon the interests of <placeName>France</placeName>
+               &amp; the <placeName>United States</placeName>. The next day
+                  <persName>Gerry</persName> informed him that as an individual he would confer, but
+               the commission being jointly to three envoys, as a minister he had no authority. On
+               the <date>20th</date> he wrote <persName>Talleyrand</persName>, That as his
+               colleagues from necessity had left <placeName>Paris</placeName>; to prevent a rupture
+               between the two nations he had consented to remain; but his conferences must be
+               informal-&amp; that he should communicate them to his government, but without
+               official authority. <persName>Talleyrand</persName> abandoned the demand of a loan,
+               &amp; the explanation of the president's speech; and announced the willingness of the
+               government to give Mr <persName>Gerry</persName> a public reception.</p>
+
+            <p>On the <date>3d of May</date> Mr <persName>Gerry</persName> in a letter to Mr
+                  <persName>King</persName> says, "I cannot say what will be the opinion of the
+               president, or of his constitutients, respecting my conduct in remaining here, but I
+               will do nothing that I cannot justify to my own mind, &amp; which I am not clearly
+               convinced ought to merit their approbation. I have no personal views in remaining,
+               &amp; the moment I can reconcile this government to my departure, I shall embark for
+               the <placeName>United States</placeName>."</p>
+
+            <p>The circumstance of his remaining in <placeName>France</placeName> after the other
+               envoys had left it, &amp; the apprehension that he would do something that would
+               compromit the honor or interest of our country, excited the people to censure him
+               with great severity. To a gentleman who had forwarded to him, by express, the
+               dispatches published in the <placeName>United States</placeName>, advising him to
+               withdraw from <placeName>France</placeName> before their contents were made known
+               &amp; urging the danger of his situation, he writes, "I have received your letter
+               with copies of the dispatches enclosed. The prospect of a ten years' imprisonment
+               would not induce me to quit this country as a fugitive." In his conferences with
+                  <persName>Talleyrand</persName> he displayed talents, information, industry,
+               prudence, &amp; uncompromising integrity. On the eve of hostilities between the two
+               nations his zeal, his penetration, &amp; cool perseverance, laid the foundation for
+               an accomodation. The minister having given him a positive assurance of the reception
+               of another minister, with the respect due to the nation he should represent, he on
+               the <date>10th of June</date> demanded his pass-ports; but the government of
+                  <placeName>France</placeName>, under various pretents, delayed it till the
+                  <date>26th of July</date>, when he left <placeName>Paris</placeName> for
+                  <placeName>Havre</placeName>.</p>
+
+            <p>There he received an arrete from the French government restraining the irregular
+               &amp; vexatious conduct of privateers in the West Indian Seas &amp; assurances given
+               that all other arrangements should conform to the just expectations of the
+                  <placeName>United States</placeName>. The benefits which Mr
+                  <persName>Gerry</persName> considered as resulting from his residence in that
+               country was, an express renunciation on the part of <placeName>France</placeName> of
+               loans; of reparation for the presidents speech; a renunciation of a demand for the
+                  <placeName>United States</placeName> to assume debts due her citizens; a
+               disclaimer of any desire that we should dissolve the British treaty; an admission of
+               our claim for captures on the want of a role d'equipage; advances towards a new
+               negotiation; &amp; the actual preservation of peace.</p>
+
+            <p>On the <date>first day of October</date> he arrived at <placeName>Boston</placeName>;
+               &amp; on the <date>18th of that month</date> in a letter to the secretary of State,
+               giving an account of his mission says_ "I was informed that an immediate rupture
+               would be the result of my departure from <placeName>France</placeName>; &amp; the
+               same communication being again made, with information, that if I was determined not
+               to negotiate seperately, this government would be satisfied with my residence here,
+               untill the government of the <placeName>United States</placeName> could take their
+               measures.</p>
+
+            <p>I consented to this from public considerations solely; for every private one was
+               opposed to it. In my embarrassed situation, not losing sight of the great object of
+               our mission, a reconciliation with this powerful republic. I have taken a position,
+               by which I meant to ascertain, if possible, without compromitting the government of
+               the <placeName>United States</placeName>, or myself, the ultimate views of
+                  <placeName>France</placeName> with respect to them. It would have been impossible
+               for me under existing circumstances to have consented to a seperate negotiation, had
+               the provision been made in our powers &amp; instructions: for two of my colleagues,
+               one from the southern, &amp; the other from the middle states, having been sent back,
+               I could have had no prospect of forming a treaty, which would have given general
+               satisfaction to my country; &amp; I could never undertaken any negociation, without
+               that prospect. It is therefore incumbent on me to declare, that should the result of
+               my endeavors present to our government more pleasing prospects, it is nevertheless,
+               my firm determination to proceed no further in this negotiation."</p>
+
+            <p>Tho the mission was very unpleasant to each of the envoys, it was useful to the
+                  <placeName>United States</placeName>-it opened a way for the termination of
+               hostile feelings, &amp; the preservation of the peace &amp; honor of our country.
+               President <persName>Adams</persName>, the elder, some years after says, Mr
+                  <persName>Gerry</persName> "finally saved the peace of the nation, for he alone
+               discovered &amp; furnished evidence that X.Y &amp;Z. were employed by
+                  <persName>Talleyrand</persName>; &amp; he alone brot home the direct, formal,
+               &amp; official assurances upon which the subsequent commission proceeded &amp; peace
+               made." After his return from <placeName>France</placeName> a number of his friends
+               were desirous that he should be candidate for representative to congress; but he
+               positively declined it. In <date>April 1800</date> &amp; <date>1801</date> he was
+               supported as candidate for governor of <placeName>Massachusetts</placeName>, but the
+               opposing candidate succeeded by a small majority: in the last of those years of
+               45,816 votes <persName>Gerry</persName> had 20,169.</p>
+
+            <p>He spent his time at his farm in <placeName>Cambridge</placeName> in philosophical
+               retirement, attending to his favorite pursuits, the education of his children, &amp;
+               the cultivation of his land. But in his retirement he was unfortunate. A friend for
+               whom he had become surety for a large amount, failed, &amp; left him with a weight of
+               pecuniary obligation, from which he was never able to extricate himself. Indeed, at
+               his discease he left to his family only his example and his fame.</p>
+
+            <p>Immediately after the attack made in <date>1808</date> by the British ship
+                  <orgName>Leopard</orgName> upon the American frigate
+               <orgName>Chesapeake</orgName>, there was a great meeting held in
+                  <placeName>Boston</placeName> on the occasion. Mr <persName>Gerry</persName> being
+               there, but not in the assembly, was appointed presiding officer. After being
+               conducted to the chair, he observed "I had not anticipated that at my time of life,
+               there could have been a scene like of the present, but I yield to the call that is
+               made on me, as I hold it to be the duty of every citizen, tho he may not have but one
+               day to live, to devote that day to his country.</p>
+
+            <p>In <date>August 1810</date>
+               <orgName>Harvard college</orgName> conferred on him the degree of doctor of laws; the
+               people, in the preceeding <date>April</date>, having elected him governor of
+                  <placeName>Massachusetts</placeName>, on the duties of which he entered the
+                  <date>2d of June</date>. In appointments to office, he respected the claims of his
+               political friends whom he found to have been heretofore almost entirely excluded; but
+               of the incumbents holding their place at the will of the executive, no one was
+               disturbed in the enjoyment of his situation. A strong effort was made by influential
+               individuals to change the governor's policy in this respect, &amp; there were not
+               wanting those who expressed their dissatisfaction at the tolerance he was disposed to
+               observe. But their disapprobation was without effect: his policy was to effect a
+               conciliation between the people &amp; the administration of the government of the
+                  <placeName>United States</placeName>.</p>
+
+            <p>In <date>April 1811</date> he was re-elected governor. The opposition of the
+               federalists of <placeName>Massachusetts</placeName>, to the administration of the
+               government of the <placeName>United States</placeName>, had become not only active
+               but violent. The governor in his speech, of the <date>7th of June</date>, to the
+               legislature, speaking of the appointments he had made, says, "To diminish, &amp; if
+               possible to exterminate party spirit, the executive of this commonwealth, during in
+               the last year, has confirmed in his place, or re-appointed within or requisite, every
+               state officer under his control, who has been correct in his conduct, &amp; faithful
+               to his trust; disregarding his polities, &amp; requiring only his support of the
+               federal &amp; state constitutions, governments &amp; laws, with a due regard to the
+               rights of officers and individuals subject to his official discretion.</p>
+
+            <p>But it cannot be expected of any executive, so far to disregard the sound obligations
+               of duty &amp; honor, as to preserve in official stations such individuals as would
+               abuse the influence of their public characters, by sanctioning resistance to laws, or
+               by such other conduct as will beguile peaceable &amp; happy citizens into a state of
+               civil warfare. In all the branches of the government the republicans had a decided
+               majority, &amp; to aid their partizans passed laws removing sheriffs &amp; clerks of
+               court from office, &amp; requiring the governor and council to appoint men to fill
+               those offices. Impelled by the considerations mentioned in his speech &amp; the zeal
+               of his partizans, he turned out some men from office &amp; appointed some others,
+               which if left to the unbiased exercise of his own judgment it is probable he would
+               not have done.</p>
+
+            <p>On the <date>25th of April 1812</date>, in compliance with a requisition from the
+               government of the <placeName>United States</placeName>, he promptly issued orders to
+               the militia officers to detach ten thousand men to be organized and ready to march at
+               a moments warning for the defence of the country. In a private letter of that date he
+               says, "We have been long enough at peace; we are loosing our spirit, our character,
+               &amp; our independence. We are degenerating into a mere nation of traders, &amp; are
+               forgetting the honor of our ancestors, &amp; the interest of posterity. We must be
+               roused by some great event that may stir up the ancient spirit of the people. Policy
+               has kept us quiet till it ceases to be policy. Weakness &amp; exhaustion prevented us
+               from noble daring, &amp; it was wise in us to temporize untill we gained strength
+               &amp; vigor. We have now grown to manhood, &amp; it will be shameful in the man to
+               bear what the child might submit to without dishonor." At the <date>April</date>
+               election this year for governor, of 104,156 votes he had 51,326, but the opposing
+               federal candidate was elected by a majority of 1,370.</p>
+
+            <p>He possessed a sagacity, a fortitude, an inflexibility, &amp; an indefatigable
+               application which few men can equal. Forming his opinions with deliberation, he
+               yielded them with reluctance. Feeling the conviction arising from thorough
+               investigation, it was not easy to change his results.</p>
+
+            <p>The tenacity with which he clung to such sentiments as his judgment approved was at
+               times too determined, &amp; probably obstinate. This tendency was increased by
+               another, which was the weakest trait of his mind. He was habitually suspicious, &amp;
+               this habit increased as he advanced in years. There was little in such a state of
+               mind of the art of acquiring popularity, &amp; still less in letting it be seen. They
+               who were associated with him were often oppressed with a conviction that he was
+               doubtful of their sincerity, &amp; this feeling on their part, generated a state of
+               things which otherwise would not have existed. It is something anomalous in the
+               history of character, that an individual punctiliiously upright in his own conduct,
+               should entertain so many doubts of the sincerity of others.</p>
+
+            <p>In religion he was a liberal episcopalian-willing that those who differed from him
+               should conform to their own opinions. In his temper he was naturally ardent &amp;
+               impetuous; but subjected his passions to the dictates of his judgment. Belonging to
+               that school of manners, which commenced under the royal government, &amp; perfected
+               its pupils in the camp &amp; cabinet of the revolution, regulating the deportment
+               with curtesy towards others, &amp; a personal dignity that never lost its self
+               respect, lofty without arrogance, affable without familiarity, he was at all times
+               &amp; under all circumstances, entitled to the character of a real gentleman.</p>
+
+            <p>On the <date>8th of June 1812</date>, at a meeting of severty six members of
+               congress, all but two of them voted to nominate him as a candidate for vice president
+               of the <placeName>United States</placeName>; &amp; a committee immediately wrote him
+               requesting his consent. In his letter to them, of the <date>11th</date> he consented,
+               observing "That in a republic, the service of each citizen is due to the state, even
+               in profound peace, &amp; much more so when the nation stands on the threshold of
+               war." On the first wednerday of <date>December</date> of 217 electoral votes he had
+               131, &amp; was elected; &amp; on the <date>4th March 1813</date> took the oath of
+               office at his own house. He was a zealous, firm, effective supporter of the war to it
+               he devoted his time &amp; all the energies of his mind. The <date>24th of May</date>,
+               the first day of the session, he took his seat as presiding officer in the Senate of
+               the <placeName>United States</placeName>, &amp; continued till the senate adjourned
+               on the <date>2d of August</date>.</p>
+
+            <p>As a presiding officer he was not distinguished; but he rendered great service in
+               supporting the government &amp; the rights of the nation. During his residence at
+                  <placeName>Washington</placeName>, the private letter he received from his
+               friends, &amp; from applicants for office, were numerous. The mere reading was
+               fatiguing &amp; oppressive, &amp; often deprived him of both rest &amp; exercise. He
+               politely answered as many of them as he was able.</p>
+
+            <p>There was a town in <placeName>Massachusetts</placeName> incorporated by his name but
+               in <date>1814</date> the town petitioned legislature to change its name to
+                  <placeName>Phillipstown</placeName>, alledging that <persName>Gerry</persName>
+               while chief magistrate had rendered "the name itself a term of odium &amp; reproach,"
+               "&amp; requesting that it might no longer bear his hateful name." That a town should
+               use such virulent language against a man strictly honest &amp; the second officer in
+               the government of the nation, &amp; that the legislature should so far approve of it
+               as to grant their request, can be imputed only to the blindness &amp; madness of
+               party spirit, which then prevailed in both. Such proceedings reflect more distance on
+               the petitioners &amp; the legislature, than reproach on Mr
+               <persName>Gerry</persName>.</p>
+
+            <p>Mr <persName>Gerry</persName> attended the second &amp; third sessions of the Senate;
+               and on the <date>22nd of November 1814</date> provided during the whole of a long
+               debate, with his usual spirit, &amp; in the enjoyment of accustomed health. On
+               returning to his lodgings he complained of slight indisposition, but amused himself
+               thro the evening in arranging the letters of the day, &amp; in a cheerful
+               conversation with the immates of the house. He conversed about his family in
+                  <placeName>Massachusetts</placeName>, &amp; taking from his bosom a miniature,
+               which was always suspended round his neck when the original was absent, &amp; had
+               hitherto, with a peculiar delicacy of feeling, been his own personal secret, he spoke
+               of it with an interest which shew that altho the surpassing beauty delineated on the
+               picture might have first charmed the imagination, more enduring qualities had left
+               the impress of affection on his heart.</p>
+
+            <p>He rested well thro the night, &amp; breakfasted as usual with the family on the
+               morning of the <date>23rd</date>, &amp; altho he spoke of some vague indications of
+               disease, he did not consider them sufficient to prevent his taking his seat in the
+               Senate, at the hour in which it was to meet. The carriage coming to cany him to the
+               capitol rather earlier than usual, he directed the coachman on his way there, to stop
+               at the office of the register of the treasury, at which he had some business that
+               required his attention. This being arranged he returned to his carriage, &amp; had
+               proceeded but a short distance, when a sudden extravasation of blood took place upon
+               the lungs, &amp; terminated his life in twenty minutes, almost without a struggle,
+               &amp; apparently without pain, in the seventy first year of his age.</p>
+
+            <p>The next day he was buried, under the direction of a committee of the Senate, in the
+               city of <placeName>Washington</placeName>. Congress afterwards erected a monument of
+               white marble over his remains, with the following inscription. "The tomb of
+                  <persName>Elbridge Gerry</persName>, vice president of the <placeName>United
+                  States</placeName>, who died suddenly in this city, <date>November 23,
+               1814</date>, on his way to the capitol as president of the Senate, aged seventy
+               years. Thus fulfilling his own memorable injunction. It is the duty of every man, tho
+               he may have but one day to live, to devote that day to the good of his country.</p>
+            <p/>
+         </div>
+      </body>
+   </text>
+</TEI>
