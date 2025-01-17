@@ -1,6 +1,6 @@
 {
     "inputs": [
-        "https://raw.githubusercontent.com/LEAF-VRE/demo-2025-01-17/refs/heads/main/Gerry%20Demo/Gerry-tei-tagged.xml"
+        "https://raw.githubusercontent.com/LEAF-VRE/demo-2025-01-17/refs/heads/main/Gerry%20Demo/Gerry-tei-entities.xml"
     ],
     "documents": "//div[@type='biography']",
     "ignoreNamespace": true,
@@ -17,6 +17,10 @@
             {
                 "xpath": "//persName",
                 "label": "People"
+            },
+            {
+                "xpath": "//persName[@key='Elbridge Gerry']",
+                "label": "Elbridge Gerry"
             },
             {
                 "xpath": "//placeName",
