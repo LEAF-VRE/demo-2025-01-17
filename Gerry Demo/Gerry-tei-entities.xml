@@ -97,7 +97,7 @@
             <head><persName key="Elbridge Gerry" ref="http://www.wikidata.org/entity/Q219797">Elbridge Gerry</persName>.</head>
             <p>The son of <persName>Thomas Gerry</persName>, a native of <placeName>Newton,
                   England</placeName>, but emigrated to this country in <date>1730</date>, was born
-               at <placeName>Marblehead, Massachusetts</placeName>, the <date>17th of July
+               at <placeName key="Marblehead" ref="http://www.wikidata.org/entity/Q27416">Marblehead, Massachusetts</placeName>, the <date>17th of July
                   1744</date>. He entered <orgName>Harvard college</orgName> before he was fourteen
                years of age, &amp; graduated there in <date>1762</date>. He was at first destined to
                the profession of medicine, to which he was strongly attached; but soon after he left
