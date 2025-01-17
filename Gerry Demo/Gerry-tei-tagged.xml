@@ -46,7 +46,7 @@
 	"id": "https://raw.githubusercontent.com/LEAF-VRE/demo-2025-01-17/main/Gerry%20Demo/Gerry-tei-tagged.xml?organization_annotation_20250117154958109",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-01-17T20:49:58.109Z",
-	"dcterms:modified": "2025-01-17T20:49:58.109Z",
+	"dcterms:modified": "2025-01-17T20:50:33.335Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -98,7 +98,7 @@
             <p>The son of <persName>Thomas Gerry</persName>, a native of <placeName>Newton,
                   England</placeName>, but emigrated to this country in <date>1730</date>, was born
                at <placeName>Marblehead, Massachusetts</placeName>, the <date>17th of July
-                  1744</date>. He entered <orgName ref="http://www.wikidata.org/entity/Q49123" key="Harvard College">Harvard college</orgName> before he was fourteen
+                  1744</date>. He entered <orgName key="Harvard College" ref="http://www.wikidata.org/entity/Q49123">Harvard college</orgName> before he was fourteen
                years of age, &amp; graduated there in <date>1762</date>. He was at first destined to
                the profession of medicine, to which he was strongly attached; but soon after he left
                college he engaged in the same business his father followed &amp; at his request,
