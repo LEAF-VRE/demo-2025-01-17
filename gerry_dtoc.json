@@ -23,6 +23,30 @@
                 "label": "Elbridge Gerry"
             },
             {
+                "xpath": "//persName[@key='John Adams']",
+                "label": "John Adams"
+            },
+            {
+                "xpath": "//persName[@key='Benedict Arnold']",
+                "label": "Benedict Arnold"
+            },
+            {
+                "xpath": "//persName[@key='William Pinkney']",
+                "label": "William Pinkney"
+            },
+            {
+                "xpath": "//persName[@key='John Marshall']",
+                "label": "John Marshall"
+            },
+            {
+                "xpath": "//persName[@key='Charles-Maurice de Talleyrand-Périgord']",
+                "label": "Tallyrand"
+            },
+            {
+                "xpath": "//persName[@key='Ann Gerry']",
+                "label": "Ann Gerry"
+            },
+            {
                 "xpath": "//placeName",
                 "label": "Places"
             },
